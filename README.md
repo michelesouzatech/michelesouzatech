@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou a Michele 👋</h1>
+<h1 align="center">Oi, eu sou a Michele </h1>
 
 <h3 align="center">Sales Ops @ SoftExpert • Em transição para AI/ML Engineering</h3>
 
@@ -23,17 +23,17 @@ Agora estou construindo a ponte entre esse conhecimento de negócio e a área t�
 
 ---
 
-### 🛠️ Em construção
+### 🚀 Projetos pessoais
 
-<!--
-Adicione aqui os projetos/tecnologias que você está estudando ou já aplicou.
-Exemplos de badges (ajuste conforme sua stack real):
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
--->
+- **[Meu Ritmo](https://github.com/michelesouzatech/meu-ritmo)** — planner completo: hábitos, tarefas, agenda do Google, suplementação, corridas e treinos de musculação em um só lugar, com insights automáticos de performance e pontos de melhoria.
+- **[FinPilot](https://github.com/michelesouzatech/finpilot)** — app financeiro pessoal: contas mensais, faturas de cartão, projeção de faturas futuras com base em parcelamentos e assinaturas recorrentes, além de porquinho e caixinha temporária.
+- **[Meu Pet](https://github.com/michelesouzatech/meu-pet)** — organização completa dos pets: vacinas, consultas, alimentação, banho, areia, com alertas e previsão de quando ração e areia vão acabar.
 
-- Aplicando automações e IA no fluxo de propostas comerciais e RFIs
-- Estudando prompt engineering aplicado a processos de negócio real
+### 💼 Projetos para o trabalho (SoftExpert)
+
+- **[LicitaSE](https://github.com/michelesouzatech/licitase)** — agente que analisa editais de licitação com base nos produtos da SoftExpert e emite parecer sobre entrar ou não na disputa.
+- **[Guia de Licitações SoftExpert](https://github.com/michelesouzatech/guia-licitacoes-softexpert)** — tutorial animado e dinâmico sobre como conduzimos licitações internamente, com quiz de validação no final.
+- **Portal de Onboarding** — *em construção* 🚧
 
 ---
 
