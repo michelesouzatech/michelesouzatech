@@ -12,7 +12,7 @@
 
 ### 🧭 Sobre mim
 
-Trabalho há anos na área comercial — hoje em **Sales Ops na SoftExpert**, dando suporte estratégico a executivos de vendas: propostas comerciais, RFIs, relatórios técnicos, CRM. Antes disso, vendas diretas.
+Trabalho há anos na área comercial — hoje em **Sales Ops na SoftExpert**, dando suporte estratégico a executivos de vendas: propostas comerciais, RFIs, relatórios técnicos, CRM.
 
 Agora estou construindo a ponte entre esse conhecimento de negócio e a área técnica: estou migrando de carreira para atuar com **IA — AI/ML Engineering, Prompt Engineering** e afins. Curso uma pós-graduação em **AI for Business** e uso meu dia a dia comercial como laboratório real pra aplicar automação e IA em processos.
 
@@ -41,7 +41,7 @@ Agora estou construindo a ponte entre esse conhecimento de negócio e a área t�
 
 <p align="left">
   <!-- Troque pelos seus links reais -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/michelesouzatech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/michelesouzatech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
