@@ -1,48 +1,54 @@
-<h1 align="center">Oi, eu sou a Michele </h1>
+# Michele Souza
 
-<h3 align="center">Sales Ops @ SoftExpert • Em transição para AI/ML Engineering</h3>
+Sales Ops na SoftExpert, em transição para IA aplicada a negócios. Joinville, SC.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-em%20transi%C3%A7%C3%A3o%20de%20carreira-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/foco-IA%20%2F%20Prompt%20Engineering-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/base-Joinville%2C%20SC-informational?style=flat-square" />
-</p>
+## Sobre mim
 
----
+Foram 7 anos em funções comerciais: comecei em pré-vendas, virei executiva de contas e hoje trabalho no back office de vendas da SoftExpert. É lá que eu monto propostas comerciais, respondo RFIs, escrevo relatórios técnicos e cuido do CRM (Bitrix24 e SE Suite) para os executivos de vendas.
 
-### 🧭 Sobre mim
+A IA entrou na minha rotina por esse trabalho, e foi por causa dela que decidi mudar de área. Faço pós-graduação em AI for Business na Unisociesc e construo projetos para problemas que eu mesma tenho, no dia a dia e no trabalho. Quero uma posição técnica em IA, como AI/ML Engineering ou Prompt Engineering, levando comigo o que aprendi sobre como uma venda funciona por dentro.
 
-Trabalho há anos na área comercial — hoje em **Sales Ops na SoftExpert**, dando suporte estratégico a executivos de vendas: propostas comerciais, RFIs, relatórios técnicos, CRM.
+## Projetos pessoais
 
-Agora estou construindo a ponte entre esse conhecimento de negócio e a área técnica: estou migrando de carreira para atuar com **IA — AI/ML Engineering, Prompt Engineering** e afins. Curso uma pós-graduação em **AI for Business** e uso meu dia a dia comercial como laboratório real pra aplicar automação e IA em processos.
+**[Meu Ritmo](https://github.com/michelesouzatech/meu-ritmo)** ([abrir o app](https://meu-ritmo.vercel.app))
+Planner que junta tarefas, hábitos com meta por período, Google Agenda, treino de musculação e corrida, suplementação e diário. Tem pontos e recompensas, e os insights vêm de um motor próprio, sem depender de API de IA.
+`React` `Vite` `Tailwind` `Supabase`
 
-- 💼 Hoje: produção de documentos, propostas, relatórios técnicos, CRM (Bitrix24, SE Suite)
-- 🎓 Agora: pós em AI for Business
-- 🎯 Meta: migrar para uma posição técnica em IA
-- 🧩 Diferencial: entendo o processo de negócio por dentro — não só a tecnologia
+**[FinPilot](https://github.com/michelesouzatech/finpilot)** ([abrir o app](https://finpilot-mocha.vercel.app))
+App de finanças pessoais com contas do mês, faturas de cartão e projeção das faturas futuras a partir de parcelamentos e assinaturas. Também tem porquinho e caixinha temporária.
+`React` `Vite` `Supabase`
 
----
+**[Meu Pet](https://github.com/michelesouzatech/meu-pet)**
+Organização dos pets: vacinas, consultas, ração, banho e areia, com alertas e uma previsão de quando a ração e a areia vão acabar.
+`React` `Vite` `Supabase`
 
-### 🚀 Projetos pessoais
+## Projetos para o trabalho (SoftExpert)
 
-- **[Meu Ritmo](https://github.com/michelesouzatech/meu-ritmo)** — planner completo: hábitos, tarefas, agenda do Google, suplementação, corridas e treinos de musculação em um só lugar, com insights automáticos de performance e pontos de melhoria.
-- **[FinPilot](https://github.com/michelesouzatech/finpilot)** — app financeiro pessoal: contas mensais, faturas de cartão, projeção de faturas futuras com base em parcelamentos e assinaturas recorrentes, além de porquinho e caixinha temporária.
-- **[Meu Pet](https://github.com/michelesouzatech/meu-pet)** — organização completa dos pets: vacinas, consultas, alimentação, banho, areia, com alertas e previsão de quando ração e areia vão acabar.
+**[Trilha SoftExpert](https://trilhasoftexpert.vercel.app/)**
+Portal de onboarding gamificado para quem entra no time Comercial. São 7 módulos com quiz (80% de acerto libera o próximo), XP, badges, certificado de conclusão e um painel para o admin acompanhar a turma. O acesso é só por convite, então o link abre na tela de login.
+`React` `TypeScript` `Tailwind` `Supabase`
 
-### 💼 Projetos para o trabalho (SoftExpert)
+**[LicitaSE](https://github.com/michelesouzatech/licitase.)**
+Lê editais e termos de referência de licitação e devolve um parecer em 12 seções, terminando em go ou no-go, cruzando o edital com os produtos da SoftExpert. Foi o meu primeiro projeto com IA, feito no Lovable em fevereiro. O banco está pausado, então o app não roda ao vivo.
+`React` `TypeScript` `Supabase`
 
-- **[LicitaSE](https://github.com/michelesouzatech/licitase.)** — agente que analisa editais de licitação com base nos produtos da SoftExpert e emite parecer sobre entrar ou não na disputa.
-- **[Guia de Licitações SoftExpert](https://github.com/michelesouzatech/guia-licitacoes-softexpert)** — tutorial animado e dinâmico sobre como conduzimos licitações internamente, com quiz de validação no final.
-- **Portal de Onboarding** — *em construção* 🚧
+**[Guia de Licitações SoftExpert](https://github.com/michelesouzatech/guia-licitacoes-softexpert)**
+Tutorial interativo sobre como conduzimos licitações, com simulador de etapas e quiz no final.
+`HTML` `CSS` `JavaScript`
 
----
+## Ferramentas
 
-### 📫 Vamos conversar
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-<p align="left">
-  <!-- Troque pelos seus links reais -->
-  <a href="https://www.linkedin.com/in/michelesouzatech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/michelesouzatech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-</p>
+## Contato
 
-<p align="center"><i>De processos comerciais para processos inteligentes.</i></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelesouzatech/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/michelesouzatech)
+
+De processos comerciais para processos inteligentes.
