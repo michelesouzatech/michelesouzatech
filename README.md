@@ -31,7 +31,7 @@ Agora estou construindo a ponte entre esse conhecimento de negócio e a área t�
 
 ### 💼 Projetos para o trabalho (SoftExpert)
 
-- **[LicitaSE](https://github.com/michelesouzatech/licitase)** — agente que analisa editais de licitação com base nos produtos da SoftExpert e emite parecer sobre entrar ou não na disputa.
+- **[LicitaSE](https://github.com/michelesouzatech/licitase.)** — agente que analisa editais de licitação com base nos produtos da SoftExpert e emite parecer sobre entrar ou não na disputa.
 - **[Guia de Licitações SoftExpert](https://github.com/michelesouzatech/guia-licitacoes-softexpert)** — tutorial animado e dinâmico sobre como conduzimos licitações internamente, com quiz de validação no final.
 - **Portal de Onboarding** — *em construção* 🚧
 
